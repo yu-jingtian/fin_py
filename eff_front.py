@@ -198,7 +198,7 @@ def rsltOutput(rslt, startDate, endDate):
     returnVol = pd.DataFrame({'Portfolio': ["Max SR", "Min Vol"],
                               'Sharpe Ratio': [maxSR_returns/maxSR_std, minVol_returns/minVol_std],
                               'Returns (%)': [maxSR_returns, minVol_returns],
-                              'Volotility (%)': [maxSR_std, minVol_std],})
+                              'Volatility (%)': [maxSR_std, minVol_std],})
     
     return(info, returnVol, allocation)
 
