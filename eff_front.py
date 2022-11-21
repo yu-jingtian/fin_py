@@ -279,9 +279,9 @@ print(info.to_string(index=False))
 print(returnVol.to_string(index=False))
 print(allocation.to_string(index=False))
 
-print(info.to_markdown(tablefmt="grid", index=False))
-print(returnVol.to_markdown(tablefmt="grid", index=False))
-print(allocation.to_markdown(tablefmt="grid", index=False))
+print(info.to_markdown(index=False))
+print(returnVol.to_markdown(index=False))
+print(allocation.to_markdown(index=False))
 
 
 EFPlot(meanReturns, covMatrix, rslt, startDate, endDate, country="US")
@@ -299,8 +299,8 @@ print(info.to_string(index=False))
 print(returnVol.to_string(index=False))
 print(allocation.to_string(index=False))
 
-print(info.to_markdown(tablefmt="grid", index=False))
-print(returnVol.to_markdown(tablefmt="grid", index=False))
-print(allocation.to_markdown(tablefmt="grid", index=False))
+print(info.to_markdown(index=False))
+print(returnVol.to_markdown(index=False))
+print(allocation.to_markdown(index=False))
 
 EFPlot(meanReturns, covMatrix, rslt, startDate, endDate, country="CN")

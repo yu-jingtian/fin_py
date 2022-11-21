@@ -1,0 +1,168 @@
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '501006.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '501023.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '506001.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '506002.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '506003.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '506005.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '506006.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '506008.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508000.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508001.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508006.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508008.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508018.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508021.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508027.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508056.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508058.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508066.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508068.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508088.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '508099.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '511520.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '512320.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '512780.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '513120.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '513220.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '513260.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '513280.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '513290.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '513380.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '513530.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '515790.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '515820.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '515980.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '516350.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '516680.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '517760.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '517850.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '517990.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '518860.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '519800.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '519801.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '519858.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '519859.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '519878.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '519879.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '519888.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '519889.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '519898.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '519899.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '560010.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '560080.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '560110.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '560650.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '560900.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '560990.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '561150.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '561180.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '561330.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '561560.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '562310.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '588010.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '588100.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '588160.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '588200.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '588260.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '588290.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '588350.SS', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159651.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159663.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159645.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159621.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159623.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159631.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159643.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159646.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159638.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159616.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159620.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159633.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159629.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159632.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159647.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
+D:\anaconda3\lib\site-packages\pandas_datareader\base.py:272: SymbolWarning: Failed to read symbol: '159797.SZ', replacing with NaN.
+  warnings.warn(msg.format(sym), SymbolWarning)
