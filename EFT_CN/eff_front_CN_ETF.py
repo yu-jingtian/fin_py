@@ -336,6 +336,7 @@ stock_rm = [str(fund)[1:10] for fund in rm_list.iloc[:, 6]]
 stocks = [stock for stock in stocks_all if stock not in stock_rm]
 
 
+
 print("Load Data...")
 meanReturns, covMatrix = getData(stocks=stocks, start=startDate, end=endDate)
 print("Data Loaded.")
@@ -354,11 +355,8 @@ print(returnVol.to_markdown(index=False))
 print(alloc_SR.to_markdown(index=False))
 print(alloc_Vol.to_markdown(index=False))
 
-'''
-print(info.to_string(index=False))
-print(returnVol.to_string(index=False))
-print(allocation.to_string(index=False))
-'''
+
 print("Plotting...")
 EFPlot(meanReturns, covMatrix, rslt, startDate, endDate, country="CN")
 print("Done.")
+
