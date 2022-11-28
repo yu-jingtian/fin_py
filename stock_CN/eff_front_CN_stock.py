@@ -6,12 +6,14 @@ Created on Tue Nov 15 01:41:26 2022
 """
 
 import numpy as np
-import datetime as dt
 import pandas as pd
 import scipy.optimize as sc
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import time
+
+import datetime as dt
+from pandas.tseries.offsets import BDay
 
 from pandas_datareader import data as pdr
 
@@ -324,15 +326,28 @@ def EFPlot(meanReturns, covMatrix, rslt, startDate, endDate, country = "US"):
 
 # 252 trading days per year 
 days = 30
-endDate = dt.datetime.today() - dt.timedelta(days=1) # start date: yesterday
+endDate = dt.datetime.today() - BDay(1) # start date: previous bussiness day
 startDate = endDate - dt.timedelta(days=days)
 
-fundList = pd.read_csv("fundVolumeFilter.csv", header=None)
+stock_csv = pd.read_csv("stock_list.csv", header=None)
+stockList = [str(stock) for stock in stock_csv.iloc[:, 0]]
+stockList_SS = []
+stockList_SZ = []
 
-stocks = [str(fund) for fund in fundList.iloc[:, 0]]
+for stock in stockList:
+    if (stock[0:2] == 'sh'):
+        stockList_SS.append(stock[2:8])
+    else:
+        stockList_SZ.append(stock[2:8])
+    
+
+stocks_SS = [stock+'.SS' for stock in stockList_SS]
+stocks_SZ = [stock+'.SZ' for stock in stockList_SZ]
+
+stocks_all = stocks_SS + stocks_SZ
 
 print("Load Data...")
-meanReturns, covMatrix = getData(stocks=stocks, start=startDate, end=endDate)
+meanReturns, covMatrix = getData(stocks=stocks_all, start=startDate, end=endDate)
 print("Data Loaded.")
 
 
