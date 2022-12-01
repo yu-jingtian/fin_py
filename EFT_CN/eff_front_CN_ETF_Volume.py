@@ -6,12 +6,14 @@ Created on Mon Nov 21 22:33:18 2022
 """
 
 import numpy as np
-import datetime as dt
 import pandas as pd
 import scipy.optimize as sc
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import time
+
+import datetime as dt
+from pandas.tseries.offsets import BDay
 
 from pandas_datareader import data as pdr
 
@@ -27,7 +29,7 @@ def getData_Volume(stocks, start, end):
 
 # 252 trading days per year 
 days = 30
-endDate = dt.datetime.today() - dt.timedelta(days=1) # start date: yesterday
+endDate = dt.datetime.today() - BDay(1) # start date: previous bussiness day
 startDate = endDate - dt.timedelta(days=days)
 
 fund_SS = pd.read_csv("fundList_SS.csv", header=None)
